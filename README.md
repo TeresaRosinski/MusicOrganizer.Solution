@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="323" src="https://coding-assets.s3-us-west-2.amazonaws.com/img/Vinyl-Record-Readme.pngng">
+  <img width="500" height="323" src="https://coding-assets.s3-us-west-2.amazonaws.com/img/Vinyl-Record-Readme.png">
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 _discography application written in c#_
 
 <br>
- 
+
 ## **SPECIFICATIONS**
 
 | Spec 	| Input 	| Output 	|
@@ -86,3 +86,4 @@ _**Image work:** [Adobe Photoshop](https://www.adobe.com/products/photoshop.html
 [logo]: https://img.shields.io/bower/l/bootstrap "MIT License"
 
 Copyright (c) 2020 **_Tristan Emmerson, Stickerslug Inc._**
+
